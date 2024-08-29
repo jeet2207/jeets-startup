@@ -1,0 +1,2 @@
+# jeets-startup
+learning code
